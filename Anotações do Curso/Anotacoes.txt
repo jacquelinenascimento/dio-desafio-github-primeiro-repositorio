@@ -1,0 +1,11 @@
+Comandos básicos para um bom desempenho no terminal
+
+- Máquina Windows
+dir - listar pastas
+cd / - navegar entre as pastas
+cd .. - retrocede
+cls - limpar a tela
+mkdir (nome da pasta) - criar pasta
+echo hello > arquivo.txt - criar arquivo
+del (nome da pasta) - deletar o conteúdo da pasta
+rmdir (nome da pasta) - deletar a pasta
